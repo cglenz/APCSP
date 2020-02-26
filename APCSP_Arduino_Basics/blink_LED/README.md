@@ -12,7 +12,7 @@
 
 ## Sketch
 
-	![blinky_light_sketch](blinky_light.png)
+	![blinky_light_sketch](blink_led.png)
 
 ## Code
 
