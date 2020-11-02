@@ -15,7 +15,7 @@ Exactly what it sounds like - makes an LED connected to the arduino blink - oh y
 
 <!--- ![blinky_light_sketch](blink_LED_bb.png)   --->
 
-<a href="blinky_light_sketch"><img src="blink_LED_bb.png" width="480" ></a>
+<a href="blink_LED_BB.png"><img src="blink_LED_bb.png" width="480" ></a>
 
 ## Code
 
