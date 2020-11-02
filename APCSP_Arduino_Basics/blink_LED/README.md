@@ -12,7 +12,7 @@ Exactly what it sounds like - makes an LED connected to the arduino blink - oh y
 
 ## Sketch
 
-![blinky_light_sketch](blink_led.png)
+![blinky_light_sketch](blink_LED_bb.png)
 
 ## Code
 
